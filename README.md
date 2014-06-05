@@ -1,0 +1,4 @@
+bucelStatic
+===========
+
+bucelStatic
